@@ -1,12 +1,8 @@
 <!DOCTYPE html>
 <html lang="fa"> 
+	
 <head>
-<link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400&display=swap" rel="stylesheet">
-<style>
-    body {
-        font-family: 'Vazirmatn', sans-serif;
-    }
-</style>	
+<link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400&display=swap" rel="stylesheet">	
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
 	<meta property="og:type" content="article" />
@@ -19,7 +15,11 @@
 </head>
 <body>
 <main>
-
+<style>
+    body {
+        font-family: 'Vazirmatn', sans-serif;
+    }
+</style>
   <header>
     <h1>فارسی کالا | قالب وردپرس مشابه دیجی کالا</h1>
   </header>
