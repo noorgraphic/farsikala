@@ -11,15 +11,15 @@
   <meta name="robots" content="index,follow"/>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-</head>
-<body>
-<main>
 <style>
     body {
         font-family: 'Vazirmatn', sans-serif;
     }
 </style>
+</head>
+<body>
+<main>
+
   <header>
     <h1>فارسی کالا | قالب وردپرس مشابه دیجی کالا</h1>
   </header>
