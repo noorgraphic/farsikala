@@ -11,27 +11,6 @@
   <meta name="robots" content="index,follow"/>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title> </title>
-  <style>
-    body {
- font-family:vazirmatn;
-      text-align: center;
-      direction: rtl;
-    }
-    header {
-      background-color: #f2f2f2;
-      padding: 20px;
-      text-align: center;
-        direction: rtl;
-    }
-    h1 {
-      color: #333;
-    }
-    p {
-      color: #666;
-      line-height: 1.6;
-    }
-  </style>
 </head>
 <body>
 <main>
