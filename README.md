@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="fa"> 
 <head>
-  <link rel='dns-prefetch' href='//fonts.googleapis.com' />
-	<link rel='stylesheet' id='astra-google-fonts-css' href='https://fonts.googleapis.com/css?family=Vazirmatn%3A400%2C500%2C700%2C600&#038;display=fallback&#038;ver=4.6.4' media='all' />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
 	<meta property="og:type" content="article" />
